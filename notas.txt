@@ -1,0 +1,7 @@
+clase 3
+Programa Canva: para modificar tamaño de imagenes
+iframe= tener informacion de otra pagina en nuestra pagina
+_Para video de youtube se copia en enlace y se pega en atom
+_Todos los video o imagenes que se desea ver deben estar dentro de la carpeta
+_Los video pueden tener una imagen de presentacion con la etiqueta poster
+_target =que se abre en una nueva ventana
